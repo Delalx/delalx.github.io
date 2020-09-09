@@ -24,7 +24,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For at se hele eksemplet, går ind på [GitHub Flavored Markdown](https://github.com/Delalx/HelloWorld2020/blob/master/src/Hello.java).
+For at se hele eksemplet, går ind på [GitHub Flavored Markdown]{(https://github.com/Delalx/HelloWorld2020/blob/master/src/Hello.java)}
 
 ### Jekyll Themes
 
