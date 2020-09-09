@@ -24,8 +24,8 @@ Planen, lige nu, er måske at arbejde hos en virksomhed og efter at have fået n
 
 ### Contacts
 #### Sociale medier
-Github: [https://github.com/Delalx]
-Facebook: [https://www.facebook.com/delal.kesen]
+Github: [Delalx](https://github.com/Delalx)
+Facebook: [Delal Kesen](https://www.facebook.com/delal.kesen)
 #### Personlige kontakt informationer
-Email: dela0037@edu.easj.dk
+Email: (dela0037@edu.easj.dk)
 
