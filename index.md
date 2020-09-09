@@ -2,7 +2,8 @@
 
 Dxcph vil i 2025 være en lille programmeringsvirksomhed, som vil være til rådighed for at hjælpe andre virksomheder.
 
-### Smugkig på Java-programmering
+### Java-programmering
+Her er et smug på hvordan en Java-programmering kan se ud:
 
 ```markdown
 
