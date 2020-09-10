@@ -1,5 +1,6 @@
 ## Delal Kesen
 
+![Image of Delal](file:///Users/delalkesen/Downloads/IMG_0574.PNG) 
 Mit navn er Delal og nuværende er jeg studerende på Zealands Erhvervsakadami på datamatiker-uddannelsen.
 
 Grunden til dette valg var tanken om, at hele vores verden er præget af teknologi og at vi ikke kan leve uden det, så hvorfor ikke være en del af det?
