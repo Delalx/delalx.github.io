@@ -1,7 +1,7 @@
 ## Delal Kesen
 
 ![Image of Delal
-(file:///Users/delalkesen/Downloads/IMG_0574.PNG) 
+(https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/10421189_773240836077248_2712793692585238001_n.jpg?_nc_cat=109&_nc_sid=85a577&_nc_ohc=URzq9aLGQloAX91EwYI&_nc_ht=scontent-amt2-1.xx&oh=ecc95b619fdc97e331dc9a3ce0319e24&oe=5F8128E0) 
 
 Mit navn er Delal og nuværende er jeg studerende på Zealands Erhvervsakadami på datamatiker-uddannelsen.
 
@@ -34,4 +34,4 @@ Facebook: [Delal Kesen](https://www.facebook.com/delal.kesen)
 
 Personlige informationer:
 
-Email: (dela0037@edu.easj.dk)
+Email: [dela0037@edu.easj.dk]
