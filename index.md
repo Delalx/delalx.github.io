@@ -1,6 +1,8 @@
 ## Delal Kesen
 
-![Image of Delal](file:///Users/delalkesen/Downloads/IMG_0574.PNG) 
+![Image of Delal
+(file:///Users/delalkesen/Downloads/IMG_0574.PNG) 
+
 Mit navn er Delal og nuværende er jeg studerende på Zealands Erhvervsakadami på datamatiker-uddannelsen.
 
 Grunden til dette valg var tanken om, at hele vores verden er præget af teknologi og at vi ikke kan leve uden det, så hvorfor ikke være en del af det?
@@ -25,9 +27,11 @@ Her er et smug på hvordan en Java-programmering kan se ud:
 ### Contacts
 
 Sociale medier:
+
 Github: [Delalx](https://github.com/Delalx)
 
 Facebook: [Delal Kesen](https://www.facebook.com/delal.kesen)
 
 Personlige informationer:
-Email: dela0037@edu.easj.dk
+
+Email: (dela0037@edu.easj.dk)
