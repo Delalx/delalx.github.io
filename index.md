@@ -1,7 +1,6 @@
 ## Delal Kesen
 
-![Image of Delal]
-(https://scontent-amt2-1.xx.fbcdn.net/v/t1.0-9/10421189_773240836077248_2712793692585238001_n.jpg?_nc_cat=109&_nc_sid=85a577&_nc_ohc=URzq9aLGQloAX91EwYI&_nc_ht=scontent-amt2-1.xx&oh=ecc95b619fdc97e331dc9a3ce0319e24&oe=5F8128E0) 
+![Billede af Delal](https://avatars2.githubusercontent.com/u/70882719?s=460&u=0dd3aa74ce5e9aaf198a501d9cdcd7f68f1a7d81&v=4)
 
 Mit navn er Delal og nuværende er jeg studerende på Zealands Erhvervsakadami på datamatiker-uddannelsen.
 
@@ -12,9 +11,9 @@ så jeg en dag ville kunne programmer mine egne spil eller hjælpe andre folk el
 
 ### Java-programmering
 Java-programmering er en af de mange ting, man lærer på datamatiker-uddannelsen.
-Her er et smug på hvordan en Java-programmering kan se ud:
+Her er et smug på, hvilken Java-programmering jeg lærte i starten, hvilket også vil give jer et indrtryk på, hvordan Java-programmering kan se ud:
 
-```markdown
+```
 
 1. public class Hello {
 2.    public static  viod main (String[] args) {
