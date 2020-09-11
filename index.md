@@ -1,8 +1,7 @@
 # Delal
+↓ This is me, if you were wondering
 
 ![Billede af Delal](https://avatars3.githubusercontent.com/u/70882719?s=460&u=857e3fe9643ab3668f303946f78777175be1841a&v=4)
-
-↑ This is me, if you were wondering 
 
 ### Om Delal
 
