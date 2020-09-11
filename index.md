@@ -1,4 +1,4 @@
-# Delal
+# Velkommen til min Github-page
 ↓ This is me, if you were wondering
 
 ![Billede af Delal](https://avatars3.githubusercontent.com/u/70882719?s=460&u=857e3fe9643ab3668f303946f78777175be1841a&v=4)
@@ -21,10 +21,10 @@ Her er et smug på, hvilken slags Java-programmering jeg lærte i starten, hvilk
 (Easy/Baby-niveau 😂)
 ```
 1. public class Hello {
-2.    // initializing the codeblock with pvsm
+2.    // pvsm
 3.    public static  viod main (String[] args) {
 4.
-5.      //Using sout to shorten the length of the code.
+5.      //sout
 6.      System.out.println("Hello World");
 7.      System.out.println("Welcome to Java");
 8.      System.out.println("Learning Java Now);
